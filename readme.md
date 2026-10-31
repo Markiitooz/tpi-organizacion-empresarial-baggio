@@ -1,26 +1,26 @@
-Trabajo Práctico Integrador (TPI) - RPB S.A. (Baggio)
+# 🏢 Trabajo Práctico Integrador (TPI) - RPB S.A. (Baggio)
 
-Sistema de Gestión Integral Agroindustrial y Comercial
+### Sistema de Gestión Integral Agroindustrial y Comercial
 
-**Universidad Tecnológica Nacional (UTN)**
+> **Universidad Tecnológica Nacional (UTN)**
+>
+> **Tecnicatura Universitaria en Programación a Distancia (TUP AD)**
+>
+> **Asignatura:** Organización Empresarial
+>
+> **Alumno:** Marcos Joaquín Gallardo
+>
+> **Cuerpo Docente:** Prof. Gabriela Martínez (Titular), Prof. Carolina Bruno, Prof. Francisco A. Varberde Thompson
+>
+> **Ciclo Lectivo:** 2026
 
-**Tecnicatura Universitaria en Programación a Distancia (TUPad)**
+## 🔗 Enlaces Rápidos del Proyecto
 
-**Asignatura:** Organización Empresarial
+* 🌿 **Repositorio Público GitHub:** <https://github.com/Markiitooz/tpi-organizacion-empresarial-baggio>
 
-**Alumno:** Marcos Joaquín Gallardo
+* 📋 **Tablero Ágil GitHub Projects:** <https://github.com/users/Markiitooz/projects/1>
 
-**Cuerpo Docente:** Prof. Carolina Bruno, Prof. Francisco A. Varberde Thompson
-
-**Ciclo Lectivo:** 2026
-
-Enlaces Rápidos del Proyecto
-
-**Repositorio Público GitHub:** <https://github.com/Markiitooz/tpi-organizacion-empresarial-baggio>
-
-**Tablero Ágil GitHub Projects:** <https://github.com/users/Markiitooz/projects/1>
-
-Descripción del Sistema
+## 📌 Descripción del Sistema
 
 Este proyecto documenta y modela la arquitectura conceptual, organizativa y de software para la firma agroindustrial **RPB S.A. (Baggio)**. El sistema integra el control transaccional desde las fincas citrícolas y viñedos hasta el cliente final, conectando:
 
@@ -34,8 +34,9 @@ Este proyecto documenta y modela la arquitectura conceptual, organizativa y de s
 
 5. **Atención Postventa con IA:** Chatbot inteligente integrado para respuesta ágil de consultas B2B/B2C en tiempo récord.
 
-Estructura del Repositorio
+## 📂 Estructura del Repositorio
 
+```
 .
 ├── README.md                          # Portada principal y documentación técnica (este archivo)
 ├── docs/
@@ -49,8 +50,9 @@ Estructura del Repositorio
 └── src/
     └── database_schema.sql            # Scripts DD/E-R de las entidades del sistema
 
+```
 
-Flujo de Trabajo en Git y GitFlow Auditado
+## 🔄 Flujo de Trabajo en Git y GitFlow Auditado
 
 El desarrollo del proyecto siguió las buenas prácticas de versionado y control colaborativo:
 
@@ -72,7 +74,7 @@ El desarrollo del proyecto siguió las buenas prácticas de versionado y control
 
   * **Estado:** Aprobado y fusionado (`Squash & Merge`) en `main`.
 
-Backlog Ágil e Historias de Usuario (GitHub Projects)
+## 📋 Backlog Ágil e Historias de Usuario (GitHub Projects)
 
 Las tareas del proyecto se administraron a través de un tablero Kanban interactivo estructurado en tres estados (*Por Hacer*, *En Progreso*, *Listo*):
 
@@ -83,7 +85,7 @@ Las tareas del proyecto se administraron a través de un tablero Kanban interact
 | **HU-03** | **Como** cliente minorista, **quiero** consultar el estado de mi envío mediante un Bot de IA, **para** obtener respuesta inmediata las 24 horas. | Respuesta autónoma en < 30s para el 70% de las consultas frecuentes. | `En Progreso` | 
 | **HU-04** | **Como** transportista, **quiero** registrar entregas offline en fincas rurales, **para** no perder datos por caídas de red móvil. | Almacenamiento local automático y sincronización transparente al reconectar. | `Listo (Done)` | 
 
-Mecanismos de Control e Indicadores de Desempeño (KPIs)
+## 📈 Mecanismos de Control e Indicadores de Desempeño (KPIs)
 
 1. **Reducción de Mermas de Stock:** Disminución $\ge 15\%$ en pérdidas de insumos en depósitos (Medición mensual).
 
@@ -93,10 +95,12 @@ Mecanismos de Control e Indicadores de Desempeño (KPIs)
 
 4. **Disponibilidad y Resiliencia (Uptime):** Operatividad continua del $99.5\%$ asegurando cero pérdida de datos offline (Medición continua).
 
-Declaración de Transparencia en el Uso de Inteligencia Artificial
+## 🤖 Declaración de Transparencia en el Uso de Inteligencia Artificial
 
 De acuerdo con las pautas de la cátedra de **Organización Empresarial (UTN TUP AD)**, se declara el uso reflexivo y crítico de herramientas de IA Generativa:
 
 1. **Propósito de Uso:** Asistencia en el trazado vectorial SVG de diagramas (BPMN 2.0 y Organigrama IRAM), verificación sintáctica de tipos de datos para el Diccionario de Datos y corrección de estilo técnico académico.
 
 2. **Control y Responsabilidad Intelectual:** Todas las salidas generadas fueron revisadas, corregidas y adaptadas críticamente por el estudiante. Se verificó la consistencia conceptual del caso real RPB S.A. (Baggio) eliminando alucinaciones o incongruencias operativas.
+
+*Documentación generada para el Coloquio Integrador Final de Organización Empresarial (UTN - 2026).*
