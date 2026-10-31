@@ -10,7 +10,7 @@
 >
 > **Alumno:** Marcos Joaquín Gallardo
 >
-> **Cuerpo Docente:** Prof. Gabriela Martínez (Titular), Prof. Carolina Bruno, Prof. Francisco A. Varberde Thompson
+> **Cuerpo Docente:** Prof. Carolina Bruno, Prof. Francisco A. Varberde Thompson
 >
 > **Ciclo Lectivo:** 2026
 
@@ -102,5 +102,3 @@ De acuerdo con las pautas de la cátedra de **Organización Empresarial (UTN TUP
 1. **Propósito de Uso:** Asistencia en el trazado vectorial SVG de diagramas (BPMN 2.0 y Organigrama IRAM), verificación sintáctica de tipos de datos para el Diccionario de Datos y corrección de estilo técnico académico.
 
 2. **Control y Responsabilidad Intelectual:** Todas las salidas generadas fueron revisadas, corregidas y adaptadas críticamente por el estudiante. Se verificó la consistencia conceptual del caso real RPB S.A. (Baggio) eliminando alucinaciones o incongruencias operativas.
-
-*Documentación generada para el Coloquio Integrador Final de Organización Empresarial (UTN - 2026).*
