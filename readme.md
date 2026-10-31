@@ -18,7 +18,7 @@
 
 * 🌿 **Repositorio Público GitHub:** <https://github.com/Markiitooz/tpi-organizacion-empresarial-baggio>
 
-* 📋 **Tablero Ágil GitHub Projects:** <https://github.com/users/Markiitooz/projects/1>
+* 📋 **Tablero Ágil GitHub Projects:** <https://github.com/users/Markiitooz/projects/1/views/1?layout_template=board>
 
 ## 📌 Descripción del Sistema
 
